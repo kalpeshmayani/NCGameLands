@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NCGameLands</string>
+    <string name="south_mountain">South Mountain</string>
+    <string name="alcoa_game_lands">Alcoa Gamelands</string>
+    <string name="second_creek_game_land">Second Creek Game Land (Permit Only Area)</string>
+    <string name="search">Search</string>
+    <string name="directions">Directions</string>
+    <string name="regulations">Regulations</string>
+    <string name="application_requires_gps">This application requires gps to be enabled in order to work</string>
+    <string name="big_game">Big Game</string>
+    <string name="small_game">Small Game</string>
+    <string name="gps_tracking">GPS Tracking</string>
+
+    <string name="download_file_path">/NCGameLands</string>
+</resources>
